@@ -1,6 +1,0 @@
-#include "brackets.h"
-
-int main(int av, char **ac)
-{
-  
-}
